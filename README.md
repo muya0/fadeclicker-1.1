@@ -1,5 +1,4 @@
-# fadeclicker-1.1
-Fade Clicker 1.0
+# FADECLICKER 1.1
 DONT MOVE ANY FILE OUT FROM FOLDER
 Made by Muya. -- Got some codes from GithubClicker.
 For Help; My Discord Acc: https://discord.com/users/972959066836049920
